@@ -17,6 +17,8 @@ function App() {
     }
     return result;
   }
+  // const convertedObject = createObjects(keys, values);
+  // console.log("convertedObject:", convertedObject);
   const convertedObject = createObjects(keys, values);
   console.log("convertedObject:", convertedObject);
   return (
