@@ -20,6 +20,7 @@ function App() {
   // const convertedObject = createObjects(keys, values);
   // console.log("convertedObject:", convertedObject);
   const convertedObject = createObjects(keys, values);
+  // console.log("convertedObject:", convertedObject);
   console.log("convertedObject:", convertedObject);
   return (
     <div className="App">
